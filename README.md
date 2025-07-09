@@ -169,3 +169,4 @@ Implementing a machine learning model in Python involves a series of well-define
 
 
 #OUTPUT :
+![Image](https://github.com/user-attachments/assets/8e069921-2228-4035-9116-54d6998fdc99)
